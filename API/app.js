@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 
 const corsOptions = {
-  origin: 'http://localhost:5173', // Remove trailing slash
+  origin: 'https://trip-chat-nwtd-git-main-gautamchaudhari345s-projects.vercel.app', // Remove trailing slash
   credentials: true, // Fix capitalization
 };
 
