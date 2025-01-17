@@ -21,7 +21,7 @@ const HomePages = () => {
           </p>
 
           <div className="space-x-6 animate__animated animate__fadeIn animate__delay-4s">
-            <Link to="/destinations">
+            <Link to="/tours">
               <button className="bg-yellow-500 px-5 py-3 rounded-md font-semibold text-lg cursor-pointer hover:bg-yellow-600 transition-all ease-in-out duration-300">
                 Explore Destinations
               </button>
